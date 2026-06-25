@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-2026-course" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-2026-microcredential" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-2026-notification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-2026-productcatalog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-2026-user" vcs="Git" />
+  </component>
+</project>
